@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with swapi-front-end
+
+## Tech stacks
+React, Redux, Chakra-UI
+
+## About Solution
+I implemented all the functions according to requirements.
+I implemented Sort on front-end as there's no Sort API on back-end.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
